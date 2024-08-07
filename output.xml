@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persons>
+    <person>
+        <age>30</age>
+        <city>New York</city>
+        <name>John</name>
+    </person>
+    <person>
+        <age>25</age>
+        <city>London</city>
+        <name>Alice</name>
+    </person>
+    <person>
+        <age>22</age>
+        <city>Paris</city>
+        <name>Bob</name>
+    </person>
+    <person>
+        <age>24</age>
+        <city>Rabat</city>
+        <name>Adnane</name>
+    </person>
+</persons>
